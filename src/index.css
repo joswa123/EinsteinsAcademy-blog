@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  /* BRAND COLORS */
+  --color-primary: #1B3D83;        /* Deep Navy Blue - main brand */
+  --color-secondary: #E84343;      /* Red theme for NEET/JEE section */
+  --color-tertiary: #6A46BF;       /* Violet theme for Tuition Centre */
+  --color-accent: #22A455;         /* Green theme for Home Tuition */
+
+  /* BACKGROUND GRADIENT */
+  --color-hero-gradient-start: #8B3F99;
+  --color-hero-gradient-end: #F39C3C;
+
+  /* TEXT COLORS */
+  --color-heading: #212121;
+  --color-body: #5A5A5A;
+  --color-muted: #9BA7B8;
+
+  /* NEUTRAL / UI COLORS */
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-border: #E1E3E7;
+  --color-surface: #F7F9FB;
+  --color-card: #F1F4F8;
+
+  /* STATUS COLORS */
+  --color-success: #16A34A;
+  --color-warning: #FACC15;
+  --color-error: #DC2626;
+  --color-info: #0284C7;
+}
