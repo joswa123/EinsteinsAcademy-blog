@@ -91,7 +91,6 @@ const Footer = () => {
           
           {/* Column 1 - About & Logo */}
           <div className="lg:col-span-1">
-            <LogoPlaceholder />
             <p className="text-gray-300 leading-relaxed mt-4">
               Einstein's Academy is a premier educational institution in Coimbatore, dedicated to 
               nurturing young minds with a blend of innovative teaching and practical learning. 
